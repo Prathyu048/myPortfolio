@@ -1,5 +1,5 @@
 import About from './components/about'
-import Home from './components/home'
+import Home from './components/Home'
 
 import './App.css'
 function App() {
